@@ -4,5 +4,5 @@
 Python: 
   Introdução a python
 Java: 
-  Introdução a java com algum conhecimento básico em java
+  Introdução a java com algum conhecimento básico em lógica de programação
 ```
